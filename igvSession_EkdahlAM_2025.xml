@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="NC_000913.fasta" locus="NC_000913:0-4641652" nextAutoscaleGroup="3" version="8">
+    <Resources>
+        <Resource path="occupancy/judith_cas_p3_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_s1_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_s1_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_p1_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_l_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_s2_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_s2_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_p3_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_s1_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_p1_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_s1_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_l_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_s2_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_p2_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_glu_s2_merged_v6rz_chipsub.bedgraph" type="bedgraph"/>
+        <Resource path="occupancy/judith_cas_p2_merged_chip_vs_inp_lograt.bedgraph" type="bedgraph"/>
+    </Resources>
+    <Panel height="640" name="DataPanel" width="1262">
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p1_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_cas_p1_merged_chip_vs_inp_lograt.bedgraph" name="judith_cas_p1_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p1_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_cas_p1_merged_v6rz_chipsub.bedgraph" name="judith_cas_p1_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p2_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_cas_p2_merged_chip_vs_inp_lograt.bedgraph" name="judith_cas_p2_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p2_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_cas_p2_merged_v6rz_chipsub.bedgraph" name="judith_cas_p2_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p3_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_cas_p3_merged_chip_vs_inp_lograt.bedgraph" name="judith_cas_p3_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_p3_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_cas_p3_merged_v6rz_chipsub.bedgraph" name="judith_cas_p3_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_s1_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_cas_s1_merged_chip_vs_inp_lograt.bedgraph" name="judith_cas_s1_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_s1_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_cas_s1_merged_v6rz_chipsub.bedgraph" name="judith_cas_s1_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_s2_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_cas_s2_merged_chip_vs_inp_lograt.bedgraph" name="judith_cas_s2_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_cas_s2_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_cas_s2_merged_v6rz_chipsub.bedgraph" name="judith_cas_s2_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_l_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_glu_l_merged_chip_vs_inp_lograt.bedgraph" name="judith_glu_l_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_l_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_glu_l_merged_v6rz_chipsub.bedgraph" name="judith_glu_l_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_s1_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_glu_s1_merged_chip_vs_inp_lograt.bedgraph" name="judith_glu_s1_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_s1_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_glu_s1_merged_v6rz_chipsub.bedgraph" name="judith_glu_s1_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_s2_merged_chip_vs_inp_lograt.bedgraph" autoScale="false" autoscaleGroup="1" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,51" fontSize="10" id="judith_glu_s2_merged_chip_vs_inp_lograt.bedgraph" name="judith_glu_s2_merged_chip_vs_inp_lograt.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.616358" minimum="-4.097149" type="LINEAR"/>
+        </Track>
+        <Track altColor="204,204,204" attributeKey="occupancy/judith_glu_s2_merged_v6rz_chipsub.bedgraph" autoScale="false" autoscaleGroup="2" clazz="org.broad.igv.track.DataSourceTrack" fontSize="10" id="judith_glu_s2_merged_v6rz_chipsub.bedgraph" name="judith_glu_s2_merged_v6rz_chipsub.bedgraph" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.180739" minimum="-11.39112" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="49" name="FeaturePanel" width="1262">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="NC_000913.gff3" clazz="org.broad.igv.track.FeatureTrack" fontSize="10" groupByStrand="false" id="NC_000913.gff3" name="NC_000913.gff3" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.8807947019867549"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
